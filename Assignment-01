@@ -1,0 +1,43 @@
+#include<bits/stdc++.h>
+using namespace std;
+class student
+{
+    string name,id;
+public:
+    student(string s,string i)
+    {
+        name=s;
+        id=i;
+    }
+    string getName()
+    {
+        return name;
+    }
+    string getID()
+    {
+        return id;
+    }
+    student() {}
+    student(student &t)
+    {
+        name=t.name;
+        id=t.id;
+    }
+    void display()
+    {
+        cout<<"Name : "<<name<<endl;
+        cout<<"ID : "<<id<<endl;
+    }
+};
+int main()
+{
+    ios_base::sync_with_stdio(false);
+    string s,i;
+    getline(cin,s);
+    cin>>i;
+    student y(s,i);
+    cout<<"Name : "<<y.getName()<<endl;
+    cout<<"ID : "<<y.getID()<<endl;
+    student obj1(y);
+    obj1.display();
+}
