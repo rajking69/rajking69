@@ -18,11 +18,6 @@ I am a dedicated Computer Science and Engineering (CSE) student with a strong pa
 - Effective tech learning strategies
 
 
-
-# 💫 About Me:
-### About Me<br><br>🎓 CSE student passionate about web development and software engineering.  <br>💡 Love building projects and exploring new technologies.  <br>🚀 Always eager to learn and grow.<br><br>### I am currently working on:<br>🌱 Web development projects and improving my problem-solving skills.<br><br>### I am looking to collaborate on:<br>🤝 Open source and learning-focused projects.<br><br>### I am looking for help with:<br>🛠️ Improving my skills in React and full-stack development.<br><br>### Ask me about:<br>💬 Web development, Python, or tech learning strategies.<br><br>
-
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/smrajking39) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sm_rajking) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/smrajking) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/user/Fun-Anything-7644) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/rajking_69) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@SM_Rajking) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@kingovoid) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:smrajking4457@gmail.com) 
 
