@@ -4,7 +4,6 @@ I am a dedicated Computer Science and Engineering (CSE) student with a strong pa
 
 ### Currently Working On
 - Developing web applications  
-- Enhancing problem-solving and coding skills
 
 ### Looking to Collaborate On
 - Open source projects  
