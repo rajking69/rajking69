@@ -1,5 +1,23 @@
-# 💫 About Me:
-### About Me<br><br>🎓 CSE student passionate about web development and software engineering.  <br>💡 Love building projects and exploring new technologies.  <br>🚀 Always eager to learn and grow.<br><br>### I am currently working on:<br>🌱 Web development projects and improving my problem-solving skills.<br><br>### I am looking to collaborate on:<br>🤝 Open source and learning-focused projects.<br><br>### I am looking for help with:<br>🛠️ Improving my skills in React and full-stack development.<br><br>### Ask me about:<br>💬 Web development, Python, or tech learning strategies.<br><br>
+# 💫 About Me
+
+I am a dedicated Computer Science and Engineering (CSE) student with a strong passion for web development and software engineering. I enjoy building innovative projects and continuously exploring new technologies to expand my skill set. I am always eager to learn, grow, and contribute effectively.
+
+### Currently Working On
+- Developing web applications  
+- Enhancing problem-solving and coding skills
+
+### Looking to Collaborate On
+- Open source projects  
+- Learning-focused and innovative tech projects
+
+### Seeking Help With
+- Improving skills in React and full-stack development
+
+### Ask Me About
+- Web development  
+- Python programming  
+- Effective tech learning strategies
+
 
 
 ## 🌐 Socials:
