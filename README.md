@@ -1,6 +1,6 @@
 # 💫 About Me
 
-I am a dedicated Computer Science and Engineering (CSE) student with a strong passion for web development and software engineering. I enjoy building innovative projects and continuously exploring new technologies to expand my skill set. I am always eager to learn, grow, and contribute effectively.
+I am a dedicated Computer Science and Engineering (CSE) student with a strong passion for web development. I enjoy building innovative projects and continuously exploring new technologies to expand my skill set. I am always eager to learn, grow, and contribute effectively.
 
 ### Currently Working On
 - Developing web applications  
