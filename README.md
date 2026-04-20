@@ -1,46 +1,93 @@
-# 💫 About Me
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:020617&height=200&section=header&text=Sheikh%20Mohammad%20Rajking&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 
-I am a dedicated Computer Science and Engineering (CSE) student with a strong passion for web development. I enjoy building innovative projects and continuously exploring new technologies to expand my skill set. I am always eager to learn, grow, and contribute effectively.
+<h3 align="center">Full-Stack Developer | AI & Machine Learning Enthusiast</h3>
 
-### Currently Working On
-- Developing web applications  
-
-### Looking to Collaborate On
-- Open source projects  
-- Learning-focused and innovative tech projects
-
-### Seeking Help With
-- Improving skills in React and full-stack development
-
-### Ask Me About
-- Web development  
-- Python programming  
-- Effective tech learning strategies
-
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/smrajking39)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sm_rajking)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/smrajking)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB.svg?logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Sheikh-Rajking-2)
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rajking69&theme=merko&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rajking69&theme=merko&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajking69&theme=merko&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rajking69&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rajking69&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://rajking-portfolio.netlify.app/">Portfolio</a> •
+  <a href="https://linkedin.com/in/smrajking">LinkedIn</a> •
+  <a href="https://github.com/rajking69">GitHub</a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rajking69&icon=0&color=8)](https://visitcount.itsvg.in)
 
+## Professional Summary
+Computer Science and Engineering student focused on full-stack development and applied artificial intelligence.  
+Experienced in building scalable applications and working with modern technologies.  
+Interested in solving real-world problems through software engineering and data-driven systems.
 
+---
 
+## Research Experience
+- Counter-Example Guided In-Context Learning  
+  Accepted at the 3rd International Conference on Big Data, IoT and Machine Learning (BIM 2025)
 
+- Brain Tumor MRI Classification  
+  Hybrid CNN and Vision Transformer-based model  
+
+---
+
+## Technical Stack
+
+**Languages**  
+C • C++ • Java • Python • JavaScript • PHP  
+
+**Frontend**  
+HTML5 • CSS3 • Bootstrap  
+
+**Backend & Database**  
+MongoDB  
+
+**AI / ML**  
+TensorFlow  
+
+**Tools & Platforms**  
+Git • GitHub • GitHub Actions • Anaconda  
+
+**Design & Media**  
+Figma • Canva • Adobe Lightroom • Adobe Premiere Pro  
+
+**Other**  
+LaTeX  
+
+---
+
+## GitHub Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajking69&show_icons=true&hide_border=true&bg_color=020617&title_color=ffffff&text_color=ffffff&icon_color=22c55e" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajking69&hide_border=true&background=020617&ring=22c55e&fire=22c55e&currStreakLabel=ffffff" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajking69&layout=compact&hide_border=true&bg_color=020617&title_color=ffffff&text_color=ffffff"/>
+</p>
+
+---
+
+## Socials
+
+<p align="center">
+  <a href="https://facebook.com/smrajking39">Facebook</a> •
+  <a href="https://instagram.com/sm_rajking">Instagram</a> •
+  <a href="https://linkedin.com/in/smrajking">LinkedIn</a> •
+  <a href="https://www.researchgate.net/profile/Sheikh-Rajking-2">ResearchGate</a>
+</p>
+
+---
+
+## Contact
+
+<p align="center">
+  Email: smrajking4457@gmail.com • 
+  Phone: +8801882287039 • 
+  <a href="https://rajking-portfolio.netlify.app/">Portfolio</a>
+</p>
+
+---
+
+## Objective
+Seeking an internship or entry-level opportunity in software development or AI-focused roles, where I can apply my technical skills, contribute to impactful projects, and continue professional growth.
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0f172a&height=120&section=footer"/>
