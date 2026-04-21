@@ -13,9 +13,7 @@
 ---
 
 ## About Me
-I am a Computer Science and Engineering student focused on building production-ready web applications and research-oriented AI systems. I specialize in bridging full-stack development with machine learning to create practical, data-driven solutions that deliver measurable impact.
-
-Currently pursuing a B.Sc. in CSE, my core interests include Web Development, Deep Learning, and Natural Language Processing (NLP). I prioritize clarity, maintainability, and scalable architecture in every project, aiming to develop systems that are not only functional but also efficient and future-ready.
+I am a Computer Science and Engineering student focused on building production-ready web applications and research-oriented AI systems. I specialize in bridging full-stack development with machine learning to create practical, data-driven solutions that deliver measurable impact. Currently pursuing a B.Sc. in CSE, my core interests include Web Development, Deep Learning, and Natural Language Processing (NLP). I prioritize clarity, maintainability, and scalable architecture in every project, aiming to develop systems that are not only functional but also efficient and future-ready.
 
 ---
 
