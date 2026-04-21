@@ -68,10 +68,11 @@ I am a Computer Science and Engineering student focused on building production-r
 </div>
 
 ## Research & Publications
-- **Counter-Example Guided In-Context Learning: Mitigating Constraint Imitation in Large Language Models**
-  *Accepted at the 3rd International Conference on Big Data, IoT and Machine Learning (BIM 2025), Dhaka, Bangladesh.*
 
----
+- **Hybrid CNN-Vision Transformer with Attention-Based Explainability for Brain Tumor MRI Classification**
+  *Published at the 2026 IEEE 2nd International Conference on Quantum Photonics, Artificial Intelligence and Networking (QPAIN 2026), CUET, Bangladesh.*
+- **Counter-Example Guided In-Context Learning: Mitigating Constraint Imitation in Large Language Models**
+  *Published at the 3rd International Conference on Big Data, IoT and Machine Learning (BIM 2025), Dhaka, Bangladesh.*
 
 ## Certifications
 - Certificate of Appreciation — BIM 2025 Conference
