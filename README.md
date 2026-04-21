@@ -8,8 +8,6 @@
   </a>
 </h3>
 
-<p align="center">Chattogram, Bangladesh</p>
-
 ---
 
 ## About Me
