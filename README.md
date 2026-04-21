@@ -1,93 +1,82 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:020617&height=200&section=header&text=Sheikh%20Mohammad%20Rajking&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 
-<h3 align="center">Full-Stack Developer | AI & Machine Learning Enthusiast</h3>
+<!-- ================= HEADER ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0f2027&height=200&section=header&text=Sheikh%20Mohammad%20Rajking&fontSize=36&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<h3 align="center">Aspiring Software Developer | Web Development | AI & Machine Learning</h3>
 
 <p align="center">
-  <a href="https://rajking-portfolio.netlify.app/">Portfolio</a> •
-  <a href="https://linkedin.com/in/smrajking">LinkedIn</a> •
-  <a href="https://github.com/rajking69">GitHub</a>
+  Chattogram, Bangladesh
 </p>
 
 ---
 
-## Professional Summary
-Computer Science and Engineering student focused on full-stack development and applied artificial intelligence.  
-Experienced in building scalable applications and working with modern technologies.  
-Interested in solving real-world problems through software engineering and data-driven systems.
+## About Me
+I am a Computer Science and Engineering student with a strong interest in software development, artificial intelligence, and building practical digital solutions. I have experience working with modern web technologies and foundational machine learning techniques. I am continuously improving my problem-solving skills and aiming to contribute to impactful real-world projects.
 
 ---
 
-## Research Experience
-- Counter-Example Guided In-Context Learning  
-  Accepted at the 3rd International Conference on Big Data, IoT and Machine Learning (BIM 2025)
-
-- Brain Tumor MRI Classification  
-  Hybrid CNN and Vision Transformer-based model  
+## Education
+**B.Sc. in Computer Science and Engineering (Ongoing)**  
+International Islamic University Chittagong  
 
 ---
 
-## Technical Stack
-
-**Languages**  
-C • C++ • Java • Python • JavaScript • PHP  
-
-**Frontend**  
-HTML5 • CSS3 • Bootstrap  
-
-**Backend & Database**  
-MongoDB  
-
-**AI / ML**  
-TensorFlow  
-
-**Tools & Platforms**  
-Git • GitHub • GitHub Actions • Anaconda  
-
-**Design & Media**  
-Figma • Canva • Adobe Lightroom • Adobe Premiere Pro  
-
-**Other**  
-LaTeX  
-
----
-
-## GitHub Overview
+## Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajking69&show_icons=true&hide_border=true&bg_color=020617&title_color=ffffff&text_color=ffffff&icon_color=22c55e" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajking69&hide_border=true&background=020617&ring=22c55e&fire=22c55e&currStreakLabel=ffffff" height="150"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,react,tailwind,nodejs,express,mongodb,mysql,tensorflow,git,github,vscode,postman" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajking69&layout=compact&hide_border=true&bg_color=020617&title_color=ffffff&text_color=ffffff"/>
+  Machine Learning: NumPy • Pandas • Keras • CNN • NLP • Large Language Models
 </p>
 
 ---
 
-## Socials
+## Research and Publications
+
+**Counter-Example Guided In-Context Learning: Mitigating Constraint Imitation in Large Language Models**  
+Accepted at the 3rd International Conference on Big Data, IoT and Machine Learning (BIM 2025), Dhaka, Bangladesh.
+
+**Thesis (Ongoing):**  
+Bangla HateNet: Deep Multi-Task Learning for Nuanced Hate Speech Detection in Social Media  
+
+---
+
+## Certifications
+- Gemini Certified University Student  
+- Certificate of Appreciation – BIM 2025 Conference  
+- Hybrid CNN-Vision Transformer for Brain Tumor MRI Classification  
+
+---
+
+## Connect With Me
 
 <p align="center">
-  <a href="https://facebook.com/smrajking39">Facebook</a> •
-  <a href="https://instagram.com/sm_rajking">Instagram</a> •
-  <a href="https://linkedin.com/in/smrajking">LinkedIn</a> •
-  <a href="https://www.researchgate.net/profile/Sheikh-Rajking-2">ResearchGate</a>
+  <a href="https://linkedin.com/in/smrajking">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/rajking69">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://rajking-portfolio.netlify.app/">
+    <img src="https://img.icons8.com/fluency/48/domain.png" width="48" />
+  </a>
 </p>
 
 ---
 
-## Contact
-
+## GitHub Stats
 <p align="center">
-  Email: smrajking4457@gmail.com • 
-  Phone: +8801882287039 • 
-  <a href="https://rajking-portfolio.netlify.app/">Portfolio</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=smrajking&show_icons=true&theme=default" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smrajking&theme=default" />
 </p>
 
 ---
 
-## Objective
-Seeking an internship or entry-level opportunity in software development or AI-focused roles, where I can apply my technical skills, contribute to impactful projects, and continue professional growth.
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0f172a&height=120&section=footer"/>
+<!-- ================= FOOTER ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:243B55,100:141E30&height=120&section=footer"/>
+</p>
