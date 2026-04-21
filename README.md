@@ -84,6 +84,7 @@ I am a Computer Science and Engineering student focused on building production-r
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajking69&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak Stats" />
 </p>
 
+## Let's Connect
 <p align="center">
   <a href="https://linkedin.com/in/smrajking">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
