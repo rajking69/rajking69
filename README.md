@@ -49,11 +49,9 @@ I am a Computer Science and Engineering student dedicated to building production
 
 ## GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smrajking&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smrajking&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rajking69&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajking69&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak Stats" />
 </p>
-
----
 
 ## Let's Connect
 <p align="center">
