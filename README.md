@@ -15,7 +15,7 @@
 ## About Me
 I am a Computer Science and Engineering student dedicated to building production-ready web applications and research-driven AI systems. I bridge the gap between full-stack development and machine learning to deliver practical, data-driven solutions with measurable impact.
 
-- **Education:** B.Sc. in CSE at International Islamic University Chittagong (Ongoing)
+- **Education:** B.Sc. in CSE (Ongoing)
 - **Interests:** Web Development, Deep Learning, Natural Language Processing (NLP)
 - **Focus:** Clarity, maintainability, and scalable architectures
 
@@ -35,13 +35,10 @@ I am a Computer Science and Engineering student dedicated to building production
 ## Research & Publications
 - **Counter-Example Guided In-Context Learning: Mitigating Constraint Imitation in Large Language Models**
   *Accepted at the 3rd International Conference on Big Data, IoT and Machine Learning (BIM 2025), Dhaka, Bangladesh.*
-- **Thesis (Ongoing): Bangla HateNet**
-  *Deep multi-task learning for nuanced hate speech detection in social media.*
 
 ---
 
 ## Certifications
-- Gemini Certified University Student
 - Certificate of Appreciation — BIM 2025 Conference
 - Hybrid CNN–Vision Transformer for Brain Tumor MRI Classification
 
