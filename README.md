@@ -84,16 +84,18 @@ I am a Computer Science and Engineering student focused on building production-r
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajking69&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak Stats" />
 </p>
 
-## Let's Connect
 <p align="center">
   <a href="https://linkedin.com/in/smrajking">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;
   <a href="https://github.com/rajking69">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.researchgate.net/profile/Sheikh-Rajking-2">
+    <img src="https://img.shields.io/badge/ResearchGate-%2300CCBB.svg?style=flat-square&logo=ResearchGate&logoColor=white" alt="ResearchGate" />
+  </a>&nbsp;&nbsp;
   <a href="https://rajking-portfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-%23255E63.svg?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
